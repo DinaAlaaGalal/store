@@ -1,2 +1,0 @@
-# store
-online shopping store
